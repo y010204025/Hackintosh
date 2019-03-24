@@ -184,6 +184,10 @@
 | Huanan X79 E5-2670, GTX650 | [链接](https://github.com/cheneyveron/clover-x79-e5-2670-gtx650)                                               | [链接](https://github.com/cheneyveron/clover-x79-e5-2670-gtx650/blob/master/README.md) | 华南 x79 V2                |
 | MSI B360                   | [链接](https://github.com/SuperNG6/MSI-b360-10.14.2-EFI)                                                       |                                                                                        |                            |
 | **更多机型**               | [链接](https://github.com/sqlsec/clover/tree/master/%E5%8F%B0%E5%BC%8F%E6%9C%BA)                               |                                                                                        | 引用自：国光之前维护的仓库 |
+|Shinalon_YAO_7000          | [链接](https://github.com/SuperNG6/MSI-b360-10.14.2-EFI)  |[介绍] (https://github.com/jinmu333/Shinalon_YAO_7000_efi/blob/efi/README.md)  |
+
+
+
 
 ### Github 上一些贡献者的配置
 
